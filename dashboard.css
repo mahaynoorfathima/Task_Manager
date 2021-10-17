@@ -1,0 +1,15 @@
+body
+{
+	background-image:url('https://www.desktopbackground.org/download/1024x768/2010/11/21/114690_light-green-abstract-background-hd-images-3-jpg_1600x938_h.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+button
+{
+	padding:10px;
+	border-radius:20px;
+}
+a
+{
+	color:red;
+}

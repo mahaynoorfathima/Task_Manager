@@ -1,0 +1,30 @@
+body
+{
+background-image:url('http://graphix.sd/resources/slides/mockup4.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;		
+}
+fieldset
+{
+	width:50%;
+	margin-top:15%;
+	border-radius: 20px;
+	border-color: white;
+}
+input
+{
+	border-radius: 20px;
+	padding: 5px;
+}
+.btn
+{
+	background-color:#BD1E51 ;
+}
+legend
+{
+	color:white;
+}
+label
+{
+	color:white;
+}

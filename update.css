@@ -1,0 +1,30 @@
+body
+{
+	background-image:url('http://wallpaperping.com/wp-content/uploads/2018/05/digital-background-1440x1080.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+form
+{
+	margin-top: 100px;
+}
+table
+{
+	border-color: violet;
+	border-radius: 10px;
+	border-collapse: separate;
+}
+label
+{
+	color:red;
+}
+input
+{
+	background-color: skyblue;
+	border-radius: 10px;
+	
+}
+.btn
+{
+margin-left: 85px;	
+}

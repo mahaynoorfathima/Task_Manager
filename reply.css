@@ -1,0 +1,34 @@
+body
+{
+	background-image:url('https://wallpapertag.com/wallpaper/full/4/a/2/212744-large-low-poly-background-1920x1080-retina.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+form
+{
+	margin-top: 100px;
+}
+table
+{
+	border-color: red;
+	border-radius: 10px;
+	border-collapse: separate;
+}
+label
+{
+	color:red;
+}
+input
+{
+	background-color: red;
+	border-radius: 10px;
+	
+}
+.btn
+{
+margin-left: 85px;	
+}
+button
+{
+	background-color: blue;
+}

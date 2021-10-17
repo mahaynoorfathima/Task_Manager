@@ -1,0 +1,14 @@
+body
+{
+	background-image:url('http://i.ytimg.com/vi/IUBryewT2IU/maxresdefault.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+table
+{
+	border-radius: 10px;
+}
+button
+{
+	width:100%;
+}

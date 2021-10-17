@@ -1,0 +1,52 @@
+body
+{
+	background-image:url('http://4.bp.blogspot.com/-92hBCtmToAs/Ul3uRhmkc2I/AAAAAAAABTo/p2Nzey86s7o/s1600/Best-3D-Waves-Free-HD-Wallpapers.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+ .box
+        {
+            display:flex;
+
+        }
+        .inner
+        {
+            width:1000px;
+            height:200px;
+            line-height: 200px;
+            font-size:3em;
+            font-family: sans-serif;
+            font-weight:800;white-space:nowrap;
+            overflow:hidden;
+            box-shadow:4px 6px 8px rgba(0,0,0,0.5);
+        }
+        .inner:first-child{
+        	margin-top: 100px;
+            background: indianred;
+            color:#f1f1f1;
+             transform-origin: right;
+             transform: perspective(600px)rotateY(-15deg)
+        }
+         .inner:last-child{
+         	margin-top: 100px;
+            background: lightcoral;
+            color:#ff0;
+             transform-origin: left;
+             transform: perspective(600px)rotateY(15deg)
+        }
+        .inner span{
+            position:absolute;
+            animation: marquee 5s linear infinite;
+        }
+        .inner:first-child span{
+            animation-delay:2.5s;
+            left:-100%;
+        }
+        @keyframes marquee{
+            from{
+                left:100%;
+            }
+            to{
+                left:-100%;
+            }
+        }

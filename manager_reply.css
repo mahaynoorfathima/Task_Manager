@@ -1,0 +1,34 @@
+body
+{
+background-image:url('https://i.ytimg.com/vi/6T5LlkZ9NAA/maxresdefault.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;		
+}
+.mesg
+{
+	width:77%;
+}
+fieldset
+{
+	width:50%;
+	margin-top: 5%;
+	border-radius: 20px;
+	border-color: white;
+}
+input
+{
+	border-radius: 20px;
+	padding: 5px;
+}
+.btn
+{
+	background-color:#BD1E51 ;
+}
+legend
+{
+	color:white;
+}
+label
+{
+	color:white;
+}

@@ -1,0 +1,30 @@
+body
+{
+background-image:url('https://www.strikingly.com/content/static/57ab3b69027dd71b2b3bcdc06376c5a5/d17c2/2019-12-13-cool-website-backgrounds.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;		
+}
+fieldset
+{
+	width:50%;
+	margin-top:15%;
+	border-radius: 20px;
+	border-color: white;
+}
+input
+{
+	border-radius: 20px;
+	padding: 5px;
+}
+.btn
+{
+	background-color:#BD1E51 ;
+}
+legend
+{
+	color:white;
+}
+label
+{
+	color:white;
+}

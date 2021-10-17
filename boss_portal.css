@@ -1,0 +1,70 @@
+
+body
+{
+	background-image:url('https://img.chainimage.com/images/wallpapers-presentation-now-give-your-powerpoint-presentation-a.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+
+.na
+{
+	width:24px;
+}
+fieldset
+{
+	width: 50%;
+	border-radius: 40px;
+	
+}
+legend{
+	align-content: center;
+	font-size: 2.776rem;
+    color:red ;
+
+}
+input
+{
+	width:100%;
+	border-radius: 40px;
+	padding: 10px;
+	border-color: blue;
+}
+label
+{
+	text-align: left;
+}
+table
+{
+	border-color: red;
+}
+td{
+	background-color: blue;
+	color:black;
+}
+.btn
+{
+	width:20%;
+	background-color:red;
+}
+
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 0px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+.het
+{
+	height:70px;
+}
+
+.ret
+{
+	
+	margin-left: 38%;
+	width:25%;
+	background-color: green;
+}

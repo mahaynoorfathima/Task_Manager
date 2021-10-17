@@ -1,0 +1,27 @@
+body
+{
+background-image:url('https://png.pngtree.com/thumb_back/fw800/back_our/20190617/ourmid/pngtree-polygonal-chemical-molecule-poster-background-image_125106.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;		
+}
+h1
+{
+	margin-top: 15%;
+}
+button
+{
+	padding:7px;
+	border-radius: 10px;
+	border-color:green;
+}
+input
+{
+	padding:10px;
+	border-radius:10px;
+}
+.mss
+{
+	padding:10px;
+	border-radius:10px;
+	background: green;
+}

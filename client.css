@@ -1,0 +1,22 @@
+body
+{
+background-image:url('https://backgroundcheckall.com/wp-content/uploads/2017/12/login-page-background-images-hd-2.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;		
+}
+fieldset
+{
+	width:50%;
+	margin-top:15%;
+	border-radius: 20px;
+	border-color: white;
+}
+input
+{
+	border-radius: 20px;
+	padding: 5px;
+}
+.btn
+{
+	background-color:#BD1E51 ;
+}
